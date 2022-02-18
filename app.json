@@ -1,0 +1,9 @@
+{
+  "name": "zhaotaoshipin",
+  "displayName": "召淘视频",
+  "Version": "1.0.0",
+  "VersionCode": 1,
+  "goldAlias": "金币",
+  "AppID": "com.zhaotaoshipin",
+  "ServerRoot":"http://ztlcs.yuedian.shop/"
+}
